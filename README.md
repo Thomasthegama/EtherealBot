@@ -7,7 +7,7 @@ The repository of Ethereal Bot. This is where the documentation will remain unti
 
 
 ## Features
-[X]
+[x]
 
 
 ## Ethereal Bot Support Server
