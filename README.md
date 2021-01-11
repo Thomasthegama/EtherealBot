@@ -4,7 +4,16 @@ The repository of Ethereal Bot. This is where the documentation will remain unti
 ## Prefix
 > k.
 
+
+
 ## Features
+Purge command (Manage messages required)
+Ver
+
+
+## Ethereal Bot Support Server
+https://discord.gg/D75FQKdtVD
+
 
 
 ## Invite Ethereal Bot
