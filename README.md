@@ -13,7 +13,7 @@ The repository of Ethereal Bot. This is where the documentation will remain unti
 
 [x] Simple report system with reason (Requires a channel named "ethereal-logs")
 
-[ ] 
+[x] To get into contact with Ethereal Staff or report a bug feel free to simply DM the bot and we will receive the message. We will try to respond ASAP.
 
 [ ] 
 
