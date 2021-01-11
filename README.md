@@ -8,7 +8,7 @@ The repository of Ethereal Bot. This is where the documentation will remain unti
 
 ## Features
 [x] Purge Command
-[ ] 
+[ ] ed
 [ ] 
 [ ] 
 [ ] 
