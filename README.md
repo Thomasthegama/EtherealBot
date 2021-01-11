@@ -12,8 +12,7 @@ Ver
 
 
 ## Ethereal Bot Support Server
-https://discord.gg/D75FQKdtVD
-
+[Invite Ethereal Bot to your server](https://discord.gg/D75FQKdtVD)
 
 
 ## Invite Ethereal Bot
