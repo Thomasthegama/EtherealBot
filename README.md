@@ -11,7 +11,7 @@ The repository of Ethereal Bot. This is where the documentation will remain unti
 
 [x] Easy-To-Use Giveaway System
 
-[ ] 
+[x] Simple report system with reason (Requires a channel named "ethereal-logs")
 
 [ ] 
 
