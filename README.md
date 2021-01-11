@@ -7,8 +7,7 @@ The repository of Ethereal Bot. This is where the documentation will remain unti
 
 
 ## Features
-Purge command (Manage messages required)
-Ver
+[ ]
 
 
 ## Ethereal Bot Support Server
